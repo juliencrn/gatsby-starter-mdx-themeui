@@ -1,0 +1,12 @@
+{
+    "projects": {
+        "gatsby": {
+            "schemaPath": "generators/schema.graphql",
+            "extensions": {
+                "endpoints": {
+                    "dev": "http://localhost:8000/___graphql"
+                }
+            }
+        }
+    }
+}

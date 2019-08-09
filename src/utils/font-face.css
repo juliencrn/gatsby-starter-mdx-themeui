@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Kohne Makina Regular';
+    src: url('../../assets/fonts/kohne-makina/kohne-makina.ttf') format("truetype"),
+    url('../../assets/fonts/kohne-makina/kohne-makina-large.ttf') format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
